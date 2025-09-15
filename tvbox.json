@@ -2,9 +2,18 @@
   "sites": [
     {
       "key": "点播源",
-      "name": "玉兔资源",
+      "name": "😀玉兔资源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Sl",
+      "name": "😀森林资源",
+      "type": 0,
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
