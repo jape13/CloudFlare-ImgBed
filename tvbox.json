@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "key": "点播源",
+      "key": "Yt",
       "name": "😀玉兔资源",
       "type": 1,
       "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
@@ -29,7 +29,7 @@
     },
     {
       "key": "Ms",
-      "name": "😀美少女资源",
+      "name": "😬美少女资源",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "ysj",
-      "name": "😀淫水机资源",
+      "name": "😬淫水机资源",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -47,54 +47,9 @@
     },
     {
       "key": "xne",
-      "name": "😀香奈儿资源",
+      "name": "😬香奈儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Bp",
-      "name": "😀白嫖资源",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xsn",
-      "name": "😀小湿妹资源",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Hav",
-      "name": "😀黄AV资源",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "dd",
-      "name": "😀大地资源",
-      "type": 1,
-      "api": "https://dadiapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Lj",
-      "name": "😀辣椒资源",
-      "type": 0,
-      "api": "https://apilj.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
